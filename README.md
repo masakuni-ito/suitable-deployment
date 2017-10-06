@@ -1,0 +1,2 @@
+# suitable-deployment
+ちょうどいいデプロイ
